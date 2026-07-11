@@ -1,0 +1,9 @@
+ROOT0-DLW-CHAIN-v1
+index : 1230
+slug  : carbosilex-moment-zero
+seal  : a1177e12077ed754ffefaa7c229b3a35b5f09faa7d36689815633c53c227f022
+prev  : a465ee393d5a75c3c77cb66289a708d5aa098946c21774b584de89726c8dffad
+link  : 12062b9d9e9dd7efec4cb55cf843bfe5093b1a3b24d3a88bff0cdc9bebbe1e75
+head  : 23dda54f755b4e6c17a227294f4af8bb85d1ec08ac49111d436c8e2c4d95d090
+
+— the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
