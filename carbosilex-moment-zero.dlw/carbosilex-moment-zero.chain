@@ -2,8 +2,8 @@ ROOT0-DLW-CHAIN-v1
 index : 1230
 slug  : carbosilex-moment-zero
 seal  : a1177e12077ed754ffefaa7c229b3a35b5f09faa7d36689815633c53c227f022
-prev  : 97b2fdef9c5081feb06b6c07e3d909dd697d4e2075381264617be0a0137af429
-link  : 889225ad38a04b91ada0496fd06084199ef19f779f511f731208deeb35936782
-head  : f7444724835fd968bd2eac85811f9fa823a18d20a57907b4fade8d96b70b5409
+prev  : a9cdfe87437692ae72ae2479c35cdb9b51ff0b3cf4d63a349408d6df60fdaca3
+link  : 1519190496aba178d0d004358f6694ff17116c491f3fabbf00fca0d1bddd66b9
+head  : c4d41afeaef76470528856d54d86cf480a0e1c2fc8ebc60fbb9eb8e442585f2b
 
 — the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
